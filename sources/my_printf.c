@@ -1,7 +1,7 @@
 /*
 ** EPITECH PROJECT, 2021
 ** printf
-** File description: %d%s crash, %p 0x pointeur
+** File description:
 ** 8 novembre
 */
 
